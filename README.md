@@ -1,5 +1,6 @@
+
 <!-- Your title -->
-## Hi, I'm Aan Faisal, a Developer 🚀 from Indonesia.
+## Hi, I'm Aan Faisal, a Developer 🚀 from Indonesia :indonesia:.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -24,7 +25,9 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a lots of cats :cat: ;
 - 📫 How to reach me: aan.faisalal@gmail.com;
-
+ 
+<br>
+&nbsp;
 **Languages and Tools:** 
 
 <p>
