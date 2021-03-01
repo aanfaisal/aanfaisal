@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-## Hi, I'm Aan Faisal, a Developer 🚀 from Indonesia :indonesia:.
+## Hi, I'm Aan Faisal, a PHP & Android Developer from Indonesia :indonesia:.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
