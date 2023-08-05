@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on TSP Group;
-- 🌱 I’m currently using Laravel and Flutter; 
+- 🌱 I’m currently using Laravel & Flutter; 
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a lots of cats :cat: ;
@@ -51,3 +51,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
+
+
+![readmebox](https://github.com/aanfaisal/aanfaisal/assets/10329023/f7e58018-2948-44cc-8f44-3985a867cda7)
